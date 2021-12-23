@@ -13,7 +13,7 @@ use App\Http\Controllers\ImportExport1Controller;
 use App\Http\Controllers\ImportExport2Controller;
 use App\Http\Controllers\ImportExport3Controller;
 use App\Http\Controllers\CaptchaValidationController;
-use App\Http\Controllers\TestController1;
+use App\Http\Controllers\TestController;
 
 
 
